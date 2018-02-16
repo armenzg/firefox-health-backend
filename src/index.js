@@ -9,7 +9,11 @@ const load = () => {
   server.on('listening', () => {
     const { address, port } = server.address();
     // eslint-disable-next-line
-    console.log('http://%s:%d/ in %s', address, port, process.env.NODE_ENV || 'dev');
+    console.log('http://%s:%d/ in %s',
+      address === '::' ? 'localhost' : address,
+      port,
+      process.env.NODE_ENV,
+    );
   });
   server.listen(process.env.PORT || 3000);
   return server;

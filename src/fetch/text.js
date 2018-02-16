@@ -2,8 +2,6 @@ import { createClient } from 'then-redis';
 import fetch from 'node-fetch';
 import moment from 'moment';
 
-const os = require('os');
-
 const defaultTtl = moment.duration(8, 'hours').as('seconds');
 
 let db = null;
@@ -13,8 +11,10 @@ export default async function fetchText(
   url,
   { ttl = defaultTtl, headers = {}, method = 'get' } = {},
 ) {
-  headers.referer = (process.env.NODE_ENV === 'development') ?
-    'localhost' : os.hostname();
+  // XXX: Consider using fqdn
+  headers.referer = (process.env.NODE_HOME !== '/app/.heroku/node') ?
+    'localhost' : 'firefox-health-dashboard';
+  console.log(headers);
   const key = `cache:${url}`;
   if (typeof ttl === 'string') {
     ttl = moment.duration(1, ttl).as('seconds');
