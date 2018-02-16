@@ -2,6 +2,8 @@ import { createClient } from 'then-redis';
 import fetch from 'node-fetch';
 import moment from 'moment';
 
+const os = require('os');
+
 const defaultTtl = moment.duration(8, 'hours').as('seconds');
 
 let db = null;
@@ -11,6 +13,8 @@ export default async function fetchText(
   url,
   { ttl = defaultTtl, headers = {}, method = 'get' } = {},
 ) {
+  headers.referer = (process.env.NODE_ENV === 'development') ?
+    'localhost' : os.hostname();
   const key = `cache:${url}`;
   if (typeof ttl === 'string') {
     ttl = moment.duration(1, ttl).as('seconds');
@@ -24,7 +28,8 @@ export default async function fetchText(
   }
   const response = await fetch(url, { method, headers });
   if (!response.ok) {
-    // console.error(`Response for ${url} not OK: ${response.status}`);
+    console.error(`Response for ${url} not OK: ${response.status}`);
+    console.log(await response.text());
     return null;
   }
   const text = await response.text();
