@@ -1,0 +1,861 @@
+{
+  "status": "Failed",
+  "file_name": "app-klar-gecko-arm-release-unsigned",
+  "package_id": "org.mozilla.klar",
+  "version_name": "5.2",
+  "version_code": 121692011,
+  "url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/apks/38",
+  "num_profiles": 141,
+  "added": "2018-06-18T20:17:48.742Z",
+  "adder": "No-Jun Park",
+  "profiles": [
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2878",
+      "status": "success",
+      "scenario_name": "Cold Startup",
+      "time_in_ms": 1000
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2879",
+      "status": "success",
+      "scenario_name": "customFlow1 (https://abcnews.go.com/)",
+      "time_in_ms": 12200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2880",
+      "status": "success",
+      "scenario_name": "customFlow1 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2881",
+      "status": "success",
+      "scenario_name": "customFlow2 (http://www.wikia.com/fandom)",
+      "time_in_ms": 5200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2882",
+      "status": "success",
+      "scenario_name": "customFlow2 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2883",
+      "status": "success",
+      "scenario_name": "customFlow4 (https://www.buzzfeed.com/)",
+      "time_in_ms": 8900
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2884",
+      "status": "success",
+      "scenario_name": "customFlow4 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2885",
+      "status": "success",
+      "scenario_name": "customFlow5 (https://m.ranker.com/)",
+      "time_in_ms": 3700
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2886",
+      "status": "success",
+      "scenario_name": "customFlow5 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2887",
+      "status": "success",
+      "scenario_name": "customFlow6 (https://www.healthyway.com/)",
+      "time_in_ms": 8200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2888",
+      "status": "success",
+      "scenario_name": "customFlow6 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2889",
+      "status": "success",
+      "scenario_name": "customFlow7 (http://www.fashionbeans.com/)",
+      "time_in_ms": 4900
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2890",
+      "status": "success",
+      "scenario_name": "customFlow7 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2891",
+      "status": "success",
+      "scenario_name": "customFlow8 (https://lifehacker.com/)",
+      "time_in_ms": 22800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2892",
+      "status": "success",
+      "scenario_name": "customFlow8 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2893",
+      "status": "success",
+      "scenario_name": "customFlow9 (http://m.spiegel.de/)",
+      "time_in_ms": 8300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2894",
+      "status": "success",
+      "scenario_name": "customFlow9 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2895",
+      "status": "success",
+      "scenario_name": "customFlow10 (https://www.nytimes.com/)",
+      "time_in_ms": 17400
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2896",
+      "status": "success",
+      "scenario_name": "customFlow10 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2897",
+      "status": "success",
+      "scenario_name": "customFlow11 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2898",
+      "status": "success",
+      "scenario_name": "customFlow11 (https://www.reddit.com/)",
+      "time_in_ms": 3600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2899",
+      "status": "success",
+      "scenario_name": "customFlow13 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2900",
+      "status": "success",
+      "scenario_name": "customFlow13 (https://www.guardian.co.uk/)",
+      "time_in_ms": 6800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2901",
+      "status": "success",
+      "scenario_name": "customFlow14 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2902",
+      "status": "success",
+      "scenario_name": "customFlow14 (https://medium.com/)",
+      "time_in_ms": 4600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2903",
+      "status": "success",
+      "scenario_name": "customFlow15 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2904",
+      "status": "success",
+      "scenario_name": "customFlow15 (https://www.washingtonpost.com/)",
+      "time_in_ms": 9000
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2905",
+      "status": "success",
+      "scenario_name": "customFlow16 (https://www.cnbc.com/)",
+      "time_in_ms": 11100
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2906",
+      "status": "success",
+      "scenario_name": "customFlow16 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2907",
+      "status": "success",
+      "scenario_name": "customFlow17 (https://www.eurosport.de/)",
+      "time_in_ms": 9400
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2908",
+      "status": "success",
+      "scenario_name": "customFlow17 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2909",
+      "status": "success",
+      "scenario_name": "customFlow18 (https://gizmodo.com/)",
+      "time_in_ms": 21600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2910",
+      "status": "success",
+      "scenario_name": "customFlow18 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2911",
+      "status": "success",
+      "scenario_name": "customFlow19 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2912",
+      "status": "success",
+      "scenario_name": "customFlow19 (https://m.facebook.com/)",
+      "time_in_ms": 3900
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2913",
+      "status": "fail",
+      "scenario_name": "customFlow20 (https://www.flipkart.com/)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2914",
+      "status": "success",
+      "scenario_name": "customFlow20 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2915",
+      "status": "success",
+      "scenario_name": "customFlow21 (https://mobile.twitter.com/)",
+      "time_in_ms": 5600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2916",
+      "status": "success",
+      "scenario_name": "customFlow21 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2917",
+      "status": "success",
+      "scenario_name": "customFlow22 (https://www.google.com/maps?force=pwa)",
+      "time_in_ms": 2500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2918",
+      "status": "success",
+      "scenario_name": "customFlow22 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2919",
+      "status": "success",
+      "scenario_name": "customFlow23 (https://www.urbandictionary.com/)",
+      "time_in_ms": 7300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2920",
+      "status": "success",
+      "scenario_name": "customFlow23 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2921",
+      "status": "success",
+      "scenario_name": "customFlow24 (https://www.glassdoor.com/index.htm)",
+      "time_in_ms": 17200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2922",
+      "status": "success",
+      "scenario_name": "customFlow24 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2923",
+      "status": "success",
+      "scenario_name": "customFlow25 (https://en.m.wikipedia.org/wiki/Main_Page)",
+      "time_in_ms": 2300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2924",
+      "status": "success",
+      "scenario_name": "customFlow25 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2925",
+      "status": "success",
+      "scenario_name": "customFlow26 (https://m.imgur.com/)",
+      "time_in_ms": 3200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2926",
+      "status": "success",
+      "scenario_name": "customFlow26 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2927",
+      "status": "success",
+      "scenario_name": "customFlow27 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2928",
+      "status": "success",
+      "scenario_name": "customFlow27 (https://www.amazon.com/)",
+      "time_in_ms": 2800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2929",
+      "status": "success",
+      "scenario_name": "customFlow30 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2930",
+      "status": "success",
+      "scenario_name": "customFlow30 (https://m.ebay-kleinanzeigen.de/)",
+      "time_in_ms": 4300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2931",
+      "status": "success",
+      "scenario_name": "customFlow31 (https://www.expedia.com/)",
+      "time_in_ms": 11800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2932",
+      "status": "success",
+      "scenario_name": "customFlow31 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2933",
+      "status": "success",
+      "scenario_name": "customFlow32 (https://www.booking.com/)",
+      "time_in_ms": 4500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2934",
+      "status": "success",
+      "scenario_name": "customFlow32 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2935",
+      "status": "success",
+      "scenario_name": "customFlow33 (https://www.tripadvisor.com/)",
+      "time_in_ms": 4500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2936",
+      "status": "success",
+      "scenario_name": "customFlow33 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2937",
+      "status": "success",
+      "scenario_name": "customFlow34 (https://rumble.com/)",
+      "time_in_ms": 3400
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2938",
+      "status": "success",
+      "scenario_name": "customFlow34 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2939",
+      "status": "success",
+      "scenario_name": "customFlow35 (https://www.google.com/)",
+      "time_in_ms": 4300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2940",
+      "status": "success",
+      "scenario_name": "customFlow35 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2941",
+      "status": "success",
+      "scenario_name": "customFlow101 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2942",
+      "status": "fail",
+      "scenario_name": "customFlow101 (https://abcnews.go.com/US/nfl-owners-stand-players-trump-kneeling-rebuke/story?id=50060482)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2943",
+      "status": "success",
+      "scenario_name": "customFlow102 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2944",
+      "status": "success",
+      "scenario_name": "customFlow102 (http://marvel.wikia.com/wiki/Black_Panther)",
+      "time_in_ms": 7600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2945",
+      "status": "success",
+      "scenario_name": "customFlow104 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2946",
+      "status": "fail",
+      "scenario_name": "customFlow104 (https://www.buzzfeed.com/daves4/the-new-york-times-makes-the-nerdiest-correction-e?utm_term=.tlL2KE08L6#.hwrBglaV2A)",
+      "time_in_ms": 5200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2947",
+      "status": "success",
+      "scenario_name": "customFlow105 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2948",
+      "status": "success",
+      "scenario_name": "customFlow105 (https://m.ranker.com/list/hunger-games-book-vs-movie-comparisons/lisa-waugh?ref=browse_list_5&l=2&pos=1)",
+      "time_in_ms": 4200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2949",
+      "status": "success",
+      "scenario_name": "customFlow106 (https://www.healthyway.com/content/brilliant-ways-to-use-common-baby-products-for-adults/)",
+      "time_in_ms": 9200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2950",
+      "status": "success",
+      "scenario_name": "customFlow106 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2951",
+      "status": "success",
+      "scenario_name": "customFlow107 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2952",
+      "status": "success",
+      "scenario_name": "customFlow107 (http://www.fashionbeans.com/article/coolest-menswear-stores-in-the-world/)",
+      "time_in_ms": 6800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2953",
+      "status": "success",
+      "scenario_name": "customFlow108 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2954",
+      "status": "success",
+      "scenario_name": "customFlow108 (https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192)",
+      "time_in_ms": 21400
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2955",
+      "status": "success",
+      "scenario_name": "customFlow109 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2956",
+      "status": "success",
+      "scenario_name": "customFlow109 (http://m.spiegel.de/netzwelt/web/firefox-quantum-so-schlaegt-sich-der-mozilla-browser-gegen-google-chrome-a-1178579.html)",
+      "time_in_ms": 7600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2957",
+      "status": "success",
+      "scenario_name": "customFlow110 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2958",
+      "status": "fail",
+      "scenario_name": "customFlow111",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2959",
+      "status": "fail",
+      "scenario_name": "customFlow112",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2960",
+      "status": "fail",
+      "scenario_name": "customFlow113",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2961",
+      "status": "fail",
+      "scenario_name": "customFlow114",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2962",
+      "status": "fail",
+      "scenario_name": "customFlow115",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2963",
+      "status": "fail",
+      "scenario_name": "customFlow117 (https://www.eurosport.de/fussball/fifa-wm/2018/wm-2018-spielplan-russland-alle-dfb-spiele-wm-2018-gruppen-wm-2018-termine_sto6691356/story.shtml)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2964",
+      "status": "success",
+      "scenario_name": "customFlow117 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2965",
+      "status": "success",
+      "scenario_name": "customFlow118 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2966",
+      "status": "success",
+      "scenario_name": "customFlow118 (https://gizmodo.com/you-can-actually-do-something-good-with-those-eclipse-g-1798289914)",
+      "time_in_ms": 18500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2967",
+      "status": "success",
+      "scenario_name": "customFlow119 (https://m.facebook.com/Cristiano/)",
+      "time_in_ms": 10500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2968",
+      "status": "success",
+      "scenario_name": "customFlow119 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2969",
+      "status": "success",
+      "scenario_name": "customFlow120 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2970",
+      "status": "success",
+      "scenario_name": "customFlow120 (https://www.flipkart.com/search?q=moto%20g5%20plus&sid=tyy/4io&as=on&as-show=on&otracker=start&as-pos=1_1_ic_Moto%20G5)",
+      "time_in_ms": 6200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2971",
+      "status": "success",
+      "scenario_name": "customFlow121 (https://www.google.com/maps/place/Mozilla,+331+E+Evelyn+Ave,+Mountain+View,+CA+94041,+USA/@37.3873148,-122.0600095,17z/data=!4m2!3m1!1s0x808fba016663a837:0x1d64663c633a9e5?force=pwa)",
+      "time_in_ms": 3500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2972",
+      "status": "success",
+      "scenario_name": "customFlow121 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2973",
+      "status": "success",
+      "scenario_name": "customFlow122 (https://www.urbandictionary.com/define.php?term=awesome%20sauce)",
+      "time_in_ms": 9200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2974",
+      "status": "success",
+      "scenario_name": "customFlow122 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2975",
+      "status": "success",
+      "scenario_name": "customFlow123 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2976",
+      "status": "success",
+      "scenario_name": "customFlow123 (https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=true&clickSource=searchBtn&typedKeyword=Mozilla&sc.keyword=Mozilla&locT=C&locId=1147431&jobType=)",
+      "time_in_ms": 23500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2977",
+      "status": "success",
+      "scenario_name": "customFlow124 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2978",
+      "status": "fail",
+      "scenario_name": "customFlow124 (https://en.m.wikipedia.org/wiki/Mozilla_Corporation)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2979",
+      "status": "success",
+      "scenario_name": "customFlow125 (https://m.imgur.com/gallery/IayLJ)",
+      "time_in_ms": 6300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2980",
+      "status": "success",
+      "scenario_name": "customFlow125 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2981",
+      "status": "success",
+      "scenario_name": "customFlow126 (https://www.amazon.com/s/ref=nb_sb_noss_2/139-6317191-5622045?url=search-alias%3Daps&field-keywords=mobile+phone)",
+      "time_in_ms": 3800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2982",
+      "status": "success",
+      "scenario_name": "customFlow126 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2983",
+      "status": "success",
+      "scenario_name": "customFlow128 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2984",
+      "status": "success",
+      "scenario_name": "customFlow128 (https://m.ebay-kleinanzeigen.de/s-anzeigen/auf-zeit-wg-berlin/zimmer/c199-l3331)",
+      "time_in_ms": 9800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2985",
+      "status": "success",
+      "scenario_name": "customFlow129 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2986",
+      "status": "success",
+      "scenario_name": "customFlow129 (https://www.expedia.com/Hotel-Search?destination=New+York%2C+New+York&latLong=40.756680%2C-73.986470&regionId=178293&startDate=&endDate=&rooms=1&_xpid=11905%7C1&adults=2)",
+      "time_in_ms": 9600
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2987",
+      "status": "success",
+      "scenario_name": "customFlow130 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2988",
+      "status": "success",
+      "scenario_name": "customFlow130 (https://www.booking.com/searchresults.en-gb.html?city=20088325)",
+      "time_in_ms": 6000
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2989",
+      "status": "success",
+      "scenario_name": "customFlow131 (https://www.tripadvisor.com/Hotels-g187147-Paris_Ile_de_France-Hotels.html)",
+      "time_in_ms": 6100
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2990",
+      "status": "success",
+      "scenario_name": "customFlow131 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2991",
+      "status": "success",
+      "scenario_name": "customFlow132 (https://rumble.com/v3c44t-foxes-jumping-on-my-trampoline.html)",
+      "time_in_ms": 4900
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2992",
+      "status": "success",
+      "scenario_name": "customFlow132 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2993",
+      "status": "success",
+      "scenario_name": "customFlow133 (https://www.google.com/search?q=restaurants+near+me)",
+      "time_in_ms": 2200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2994",
+      "status": "fail",
+      "scenario_name": "customFlow133 (eraseButton)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2995",
+      "status": "success",
+      "scenario_name": "customFlow134 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2996",
+      "status": "success",
+      "scenario_name": "customFlow134 (https://edition.cnn.com/ampstories/us/still-missing-cassini-heres-what-else-is-out-there)",
+      "time_in_ms": 4100
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2997",
+      "status": "success",
+      "scenario_name": "customFlow135 (https://www.cosmopolitan.com/stamp/apple-cider-vinegar/)",
+      "time_in_ms": 5000
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2998",
+      "status": "success",
+      "scenario_name": "customFlow135 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/2999",
+      "status": "success",
+      "scenario_name": "customFlow136 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3000",
+      "status": "success",
+      "scenario_name": "customFlow136 (https://mashable.com/2018/02/13/reels-guide-to-black-panther.amp)",
+      "time_in_ms": 5800
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3001",
+      "status": "success",
+      "scenario_name": "customFlow137 (https://people.com/amp-stories/royal-a-to-z/)",
+      "time_in_ms": 7500
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3002",
+      "status": "success",
+      "scenario_name": "customFlow137 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3003",
+      "status": "success",
+      "scenario_name": "customFlow138 (https://mic.com/stories/262/the-art-of-an-organized-refrigerator)",
+      "time_in_ms": 7400
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3004",
+      "status": "success",
+      "scenario_name": "customFlow138 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3005",
+      "status": "success",
+      "scenario_name": "customFlow139 (https://www.sbnation.com/2018/2/12/16719476/college-football-playoff-rankings-explained)",
+      "time_in_ms": 5100
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3006",
+      "status": "success",
+      "scenario_name": "customFlow139 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3007",
+      "status": "success",
+      "scenario_name": "customFlow140 (eraseButton)",
+      "time_in_ms": 1300
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3008",
+      "status": "success",
+      "scenario_name": "customFlow140 (https://www.washingtonpost.com/graphics/2018/national/amp-stories/border-wall/)",
+      "time_in_ms": 8200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3009",
+      "status": "fail",
+      "scenario_name": "customFlow141 (https://www.wired.com/amp-stories/space-photos-of-the-week-111817/)",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3010",
+      "status": "success",
+      "scenario_name": "customFlow141 (eraseButton)",
+      "time_in_ms": 1200
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3011",
+      "status": "fail",
+      "scenario_name": "customFlow28",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3012",
+      "status": "fail",
+      "scenario_name": "customFlow29",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3013",
+      "status": "fail",
+      "scenario_name": "customFlow127",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3014",
+      "status": "fail",
+      "scenario_name": "testFlow",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3015",
+      "status": "fail",
+      "scenario_name": "customFlow103",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3016",
+      "status": "fail",
+      "scenario_name": "customFlow3",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3017",
+      "status": "fail",
+      "scenario_name": "customFlow12",
+      "time_in_ms": 0
+    },
+    {
+      "profile_url": "https://nimbledroid.com/api/v2/users/npark@mozilla.com/apps/org.mozilla.klar/profiles/3018",
+      "status": "fail",
+      "scenario_name": "customFlow116",
+      "time_in_ms": 0
+    }
+  ],
+  "console_message": "NimbleApp profiling complete\nScenario \"Cold Startup\" measured time: 1.0 seconds\nScenario \"customFlow1 (https://abcnews.go.com/)\" measured time: 12.2 seconds\nScenario \"customFlow1 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow2 (http://www.wikia.com/fandom)\" measured time: 5.2 seconds\nScenario \"customFlow2 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow4 (https://www.buzzfeed.com/)\" measured time: 8.9 seconds\nScenario \"customFlow4 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow5 (https://m.ranker.com/)\" measured time: 3.7 seconds\nScenario \"customFlow5 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow6 (https://www.healthyway.com/)\" measured time: 8.2 seconds\nScenario \"customFlow6 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow7 (http://www.fashionbeans.com/)\" measured time: 4.9 seconds\nScenario \"customFlow7 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow8 (https://lifehacker.com/)\" measured time: 22.8 seconds\nScenario \"customFlow8 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow9 (http://m.spiegel.de/)\" measured time: 8.3 seconds\nScenario \"customFlow9 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow10 (https://www.nytimes.com/)\" measured time: 17.4 seconds\nScenario \"customFlow10 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow11 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow11 (https://www.reddit.com/)\" measured time: 3.6 seconds\nScenario \"customFlow13 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow13 (https://www.guardian.co.uk/)\" measured time: 6.8 seconds\nScenario \"customFlow14 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow14 (https://medium.com/)\" measured time: 4.6 seconds\nScenario \"customFlow15 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow15 (https://www.washingtonpost.com/)\" measured time: 9.0 seconds\nScenario \"customFlow16 (https://www.cnbc.com/)\" measured time: 11.1 seconds\nScenario \"customFlow16 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow17 (https://www.eurosport.de/)\" measured time: 9.4 seconds\nScenario \"customFlow17 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow18 (https://gizmodo.com/)\" measured time: 21.6 seconds\nScenario \"customFlow18 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow19 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow19 (https://m.facebook.com/)\" measured time: 3.9 seconds\nScenario \"customFlow20 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow21 (https://mobile.twitter.com/)\" measured time: 5.6 seconds\nScenario \"customFlow21 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow22 (https://www.google.com/maps?force=pwa)\" measured time: 2.5 seconds\nScenario \"customFlow22 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow23 (https://www.urbandictionary.com/)\" measured time: 7.3 seconds\nScenario \"customFlow23 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow24 (https://www.glassdoor.com/index.htm)\" measured time: 17.2 seconds\nScenario \"customFlow24 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow25 (https://en.m.wikipedia.org/wiki/Main_Page)\" measured time: 2.3 seconds\nScenario \"customFlow25 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow26 (https://m.imgur.com/)\" measured time: 3.2 seconds\nScenario \"customFlow26 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow27 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow27 (https://www.amazon.com/)\" measured time: 2.8 seconds\nScenario \"customFlow30 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow30 (https://m.ebay-kleinanzeigen.de/)\" measured time: 4.3 seconds\nScenario \"customFlow31 (https://www.expedia.com/)\" measured time: 11.8 seconds\nScenario \"customFlow31 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow32 (https://www.booking.com/)\" measured time: 4.5 seconds\nScenario \"customFlow32 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow33 (https://www.tripadvisor.com/)\" measured time: 4.5 seconds\nScenario \"customFlow33 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow34 (https://rumble.com/)\" measured time: 3.4 seconds\nScenario \"customFlow34 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow35 (https://www.google.com/)\" measured time: 4.3 seconds\nScenario \"customFlow35 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow101 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow102 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow102 (http://marvel.wikia.com/wiki/Black_Panther)\" measured time: 7.6 seconds\nScenario \"customFlow104 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow105 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow105 (https://m.ranker.com/list/hunger-games-book-vs-movie-comparisons/lisa-waugh?ref=browse_list_5&l=2&pos=1)\" measured time: 4.2 seconds\nScenario \"customFlow106 (https://www.healthyway.com/content/brilliant-ways-to-use-common-baby-products-for-adults/)\" measured time: 9.2 seconds\nScenario \"customFlow106 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow107 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow107 (http://www.fashionbeans.com/article/coolest-menswear-stores-in-the-world/)\" measured time: 6.8 seconds\nScenario \"customFlow108 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow108 (https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192)\" measured time: 21.4 seconds\nScenario \"customFlow109 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow109 (http://m.spiegel.de/netzwelt/web/firefox-quantum-so-schlaegt-sich-der-mozilla-browser-gegen-google-chrome-a-1178579.html)\" measured time: 7.6 seconds\nScenario \"customFlow110 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow117 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow118 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow118 (https://gizmodo.com/you-can-actually-do-something-good-with-those-eclipse-g-1798289914)\" measured time: 18.5 seconds\nScenario \"customFlow119 (https://m.facebook.com/Cristiano/)\" measured time: 10.5 seconds\nScenario \"customFlow119 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow120 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow120 (https://www.flipkart.com/search?q=moto%20g5%20plus&sid=tyy/4io&as=on&as-show=on&otracker=start&as-pos=1_1_ic_Moto%20G5)\" measured time: 6.2 seconds\nScenario \"customFlow121 (https://www.google.com/maps/place/Mozilla,+331+E+Evelyn+Ave,+Mountain+View,+CA+94041,+USA/@37.3873148,-122.0600095,17z/data=!4m2!3m1!1s0x808fba016663a837:0x1d64663c633a9e5?force=pwa)\" measured time: 3.5 seconds\nScenario \"customFlow121 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow122 (https://www.urbandictionary.com/define.php?term=awesome%20sauce)\" measured time: 9.2 seconds\nScenario \"customFlow122 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow123 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow123 (https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=true&clickSource=searchBtn&typedKeyword=Mozilla&sc.keyword=Mozilla&locT=C&locId=1147431&jobType=)\" measured time: 23.5 seconds\nScenario \"customFlow124 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow125 (https://m.imgur.com/gallery/IayLJ)\" measured time: 6.3 seconds\nScenario \"customFlow125 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow126 (https://www.amazon.com/s/ref=nb_sb_noss_2/139-6317191-5622045?url=search-alias%3Daps&field-keywords=mobile+phone)\" measured time: 3.8 seconds\nScenario \"customFlow126 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow128 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow128 (https://m.ebay-kleinanzeigen.de/s-anzeigen/auf-zeit-wg-berlin/zimmer/c199-l3331)\" measured time: 9.8 seconds\nScenario \"customFlow129 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow129 (https://www.expedia.com/Hotel-Search?destination=New+York%2C+New+York&latLong=40.756680%2C-73.986470&regionId=178293&startDate=&endDate=&rooms=1&_xpid=11905%7C1&adults=2)\" measured time: 9.6 seconds\nScenario \"customFlow130 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow130 (https://www.booking.com/searchresults.en-gb.html?city=20088325)\" measured time: 6.0 seconds\nScenario \"customFlow131 (https://www.tripadvisor.com/Hotels-g187147-Paris_Ile_de_France-Hotels.html)\" measured time: 6.1 seconds\nScenario \"customFlow131 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow132 (https://rumble.com/v3c44t-foxes-jumping-on-my-trampoline.html)\" measured time: 4.9 seconds\nScenario \"customFlow132 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow133 (https://www.google.com/search?q=restaurants+near+me)\" measured time: 2.2 seconds\nScenario \"customFlow134 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow134 (https://edition.cnn.com/ampstories/us/still-missing-cassini-heres-what-else-is-out-there)\" measured time: 4.1 seconds\nScenario \"customFlow135 (https://www.cosmopolitan.com/stamp/apple-cider-vinegar/)\" measured time: 5.0 seconds\nScenario \"customFlow135 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow136 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow136 (https://mashable.com/2018/02/13/reels-guide-to-black-panther.amp)\" measured time: 5.8 seconds\nScenario \"customFlow137 (https://people.com/amp-stories/royal-a-to-z/)\" measured time: 7.5 seconds\nScenario \"customFlow137 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow138 (https://mic.com/stories/262/the-art-of-an-organized-refrigerator)\" measured time: 7.4 seconds\nScenario \"customFlow138 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow139 (https://www.sbnation.com/2018/2/12/16719476/college-football-playoff-rankings-explained)\" measured time: 5.1 seconds\nScenario \"customFlow139 (eraseButton)\" measured time: 1.2 seconds\nScenario \"customFlow140 (eraseButton)\" measured time: 1.3 seconds\nScenario \"customFlow140 (https://www.washingtonpost.com/graphics/2018/national/amp-stories/border-wall/)\" measured time: 8.2 seconds\nScenario \"customFlow141 (eraseButton)\" measured time: 1.2 seconds\nFor details visit https://nimbledroid.com/my_apps/org.mozilla.klar?a=1f4859cb-f9ff-4699-a914-bd2c88c8bb14",
+  "fail_build": false
+}
